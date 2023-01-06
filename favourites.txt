@@ -1,11 +1,10 @@
-<<<<<<< HEAD
+
 Milk
 Egg
 Pancake
 Sandwich
-=======
+
 A
 B
 C
 D
->>>>>>> movies
